@@ -1,2 +1,2 @@
 # spiderbot
-Spider bot for zhing#wang
+Spider bot for zhi#wang
